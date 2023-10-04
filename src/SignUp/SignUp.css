@@ -1,0 +1,21 @@
+.signUp{
+   font-size:20px;
+   padding-left: 30%;
+   padding-top: 5px;
+}
+.sign-up{
+    background-color: #7D8CC4;
+    color: #FFFFFF;
+    text-align: center;
+}
+img{
+    float: right;
+    height: 75px;
+    width: 75px;
+    
+   }
+   .groupImg2{
+       float: left;
+       height: 75px;
+       width: 75px
+   }
